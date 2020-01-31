@@ -14,9 +14,9 @@ Click [here](https://codepen.io/pawelkaczoruk/pen/MWYBRZm) to see example code a
 * You can go with default style or set your own styles by assigning values to a data attributes:
   * ***data-bb-size*** - sets height and width of button
   * ***data-bb-duration*** - sets breathe animation duration
-  * ***data-bb-background*** - sets colors (or colors) for background linear gradient (you can set one or two colors, if you want to set two colors don't forget to separate them with **semicolon**)
+  * ***data-bb-background*** - sets colors (or color) for background linear gradient (you can set one or two colors, if you want to set two colors don't forget to separate them with **semicolon**)
   * ***data-bb-cross*** - sets color of a cross
-  * ***data-bb-shadow*** - sets color of a shadow
+  * ***data-bb-shadow*** - sets color of a button shadow
   
 ### Example code:
 
